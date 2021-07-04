@@ -13,7 +13,7 @@ want to be an **Internet of Things(or Embedded system) developer**.
 <br>
 
 **My Site** ->  [jihoonkim.tech](http://jihoonkim.tech/) <br>
-**My Blog** ->  [blog.jihoonkim.tech](https://blog.jihoonkim.tech/)
+**My Blog** ->  [jihoonkimtech.tistory.com](jihoonkimtech.tistory.com)
 
 <br>
 
