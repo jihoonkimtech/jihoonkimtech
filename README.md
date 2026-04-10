@@ -29,5 +29,6 @@ I like Embedded System, MCUs, **make something using all 'Engineering' things**
 [**My Tech Blog**](https://jihoonkimtech.tistory.com/)
 <br>
 
+[![Github trophys](https://github-profile-trophy-azure-three.vercel.app/?username=jihoonkimtech&row=2&column=4&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)<br>
 [![GitHub stats](https://github-readme-stats-one-sigma-82.vercel.app/api?username=jihoonkimtech&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![](./profile-3d-contrib/profile-night-green.svg)
