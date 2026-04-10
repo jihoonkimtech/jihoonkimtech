@@ -1,3 +1,5 @@
+<div align="center">
+
 # jihoonkimtech [![Hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjihoonkimtech?color=red&label=Hits&size=small)](https://myhits.vercel.app)
 
 A **passionate student** of **Computer engineering** *(I'm trying to be)*<br>
@@ -30,5 +32,6 @@ I like Embedded System, MCUs, **make something using all 'Engineering' things**
 <br>
 
 [![Github trophys](https://github-profile-trophy-azure-three.vercel.app/?username=jihoonkimtech&row=2&column=4&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)<br>
-[![GitHub stats](https://github-readme-stats-one-sigma-82.vercel.app/api?username=jihoonkimtech&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![](./profile-3d-contrib/profile-night-green.svg)
+[![GitHub stats](https://github-readme-stats-one-sigma-82.vercel.app/api?username=jihoonkimtech&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
+<img src="./profile-3d-contrib/profile-night-green.svg" width="70%">
+</div>
