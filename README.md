@@ -37,6 +37,7 @@ I like Embedded System, MCUs, **make something using all 'Engineering' things**
 <p><img src="https://img.shields.io/badge/RPi-A22846?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/RPi Pico-A22846?&style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/arduino-00878F?&style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/arduino uno q-00878F?&style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
 
 ### Operating Systems
@@ -69,6 +70,7 @@ I like Embedded System, MCUs, **make something using all 'Engineering' things**
 <img src="https://img.shields.io/badge/VS_Code-0078D4?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?&style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?&style=for-the-badge&logo=arduino&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Arduino_App_Lab-00979D?&style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/PlatformIO-F5A623?&style=for-the-badge&logo=platformio&logoColor=white"/>
 </p>
 
