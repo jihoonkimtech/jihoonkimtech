@@ -67,10 +67,11 @@ I like Embedded System, MCUs, **make something using all 'Engineering' things**
 
 ### IDEs
 <p>
-<img src="https://img.shields.io/badge/VS_Code-0078D4?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?&style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?&style=for-the-badge&logo=arduino&logoColor=white"/>
- <img src="https://img.shields.io/badge/Arduino_App_Lab-00979D?&style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino_App_Lab-00979D?&style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/PlatformIO-F5A623?&style=for-the-badge&logo=platformio&logoColor=white"/>
 </p>
 
