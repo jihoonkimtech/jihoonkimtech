@@ -20,8 +20,13 @@ I like Embedded System, MCUs, **make something using all 'Engineering' things**
 <img src="https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=PHP&logoColor=white"/></p>
+
+### Frameworks & Libraries
+<p><img src="https://img.shields.io/badge/ROS2-22314E?&style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?&style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?&style=for-the-badge&logo=scikitlearn&logoColor=white"/></p>
 
 ### Sheet/Script Languages
 <p>
